@@ -1,0 +1,15 @@
+/Users/stanislav/Projects/FigureAreaCalculate/Calculate/bin/Debug/net6.0/Calculate
+/Users/stanislav/Projects/FigureAreaCalculate/Calculate/bin/Debug/net6.0/Calculate.deps.json
+/Users/stanislav/Projects/FigureAreaCalculate/Calculate/bin/Debug/net6.0/Calculate.runtimeconfig.json
+/Users/stanislav/Projects/FigureAreaCalculate/Calculate/bin/Debug/net6.0/Calculate.dll
+/Users/stanislav/Projects/FigureAreaCalculate/Calculate/bin/Debug/net6.0/Calculate.pdb
+/Users/stanislav/Projects/FigureAreaCalculate/Calculate/obj/Debug/net6.0/Calculate.csproj.AssemblyReference.cache
+/Users/stanislav/Projects/FigureAreaCalculate/Calculate/obj/Debug/net6.0/Calculate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav/Projects/FigureAreaCalculate/Calculate/obj/Debug/net6.0/Calculate.AssemblyInfoInputs.cache
+/Users/stanislav/Projects/FigureAreaCalculate/Calculate/obj/Debug/net6.0/Calculate.AssemblyInfo.cs
+/Users/stanislav/Projects/FigureAreaCalculate/Calculate/obj/Debug/net6.0/Calculate.csproj.CoreCompileInputs.cache
+/Users/stanislav/Projects/FigureAreaCalculate/Calculate/obj/Debug/net6.0/Calculate.dll
+/Users/stanislav/Projects/FigureAreaCalculate/Calculate/obj/Debug/net6.0/refint/Calculate.dll
+/Users/stanislav/Projects/FigureAreaCalculate/Calculate/obj/Debug/net6.0/Calculate.pdb
+/Users/stanislav/Projects/FigureAreaCalculate/Calculate/obj/Debug/net6.0/Calculate.genruntimeconfig.cache
+/Users/stanislav/Projects/FigureAreaCalculate/Calculate/obj/Debug/net6.0/ref/Calculate.dll

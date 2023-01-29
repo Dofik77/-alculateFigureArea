@@ -1,0 +1,5 @@
+/Users/stanislav/Projects/FigureAreaCalculate/FigureAreaCalculate/obj/Debug/net6.0/FigureSquareCalculate.csproj.AssemblyReference.cache
+/Users/stanislav/Projects/FigureAreaCalculate/FigureAreaCalculate/obj/Debug/net6.0/FigureSquareCalculate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav/Projects/FigureAreaCalculate/FigureAreaCalculate/obj/Debug/net6.0/FigureSquareCalculate.AssemblyInfoInputs.cache
+/Users/stanislav/Projects/FigureAreaCalculate/FigureAreaCalculate/obj/Debug/net6.0/FigureSquareCalculate.AssemblyInfo.cs
+/Users/stanislav/Projects/FigureAreaCalculate/FigureAreaCalculate/obj/Debug/net6.0/FigureSquareCalculate.csproj.CoreCompileInputs.cache
